@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "875784355703",
+    "project_id": "logintutorial-fec5c",
+    "storage_bucket": "logintutorial-fec5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875784355703:android:d5a0b1c22e9b6b02d22b72",
+        "android_client_info": {
+          "package_name": "com.example.logintry3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875784355703-bvof6n9ebdshi9nhclnp57t23io083co.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.logintry3",
+            "certificate_hash": "924d3571c13a6882ac850599e51b9c855cd2b0e6"
+          }
+        },
+        {
+          "client_id": "875784355703-s833uktl2lonppp3qja1qp8htpdop1ar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7uRZ3HZe-bAT0rTbiW4BOf9uX4VlCNJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875784355703-s833uktl2lonppp3qja1qp8htpdop1ar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
